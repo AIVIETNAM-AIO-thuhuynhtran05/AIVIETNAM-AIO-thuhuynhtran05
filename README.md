@@ -29,7 +29,7 @@ Analyzed one year of card transactions: checked data quality, visualized spendin
 ---
 
 ### [Vin-Datathon | Python, SQL, Machine Learning](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Vin-Datathon)
-Top 20 data competition project. Explored 13 e-commerce tables covering customers, products, orders, and web activity, engineered features, and built predictive models including a sales-forecasting baseline.
+Top 20 out of 500 teams in a data competition. Explored 13 e-commerce tables covering customers, products, orders, and web activity, engineered features, and built predictive models including a sales-forecasting baseline.
 
 ---
 
@@ -59,4 +59,4 @@ Graduation thesis (in progress) predicting loan default on 307K Home Credit appl
 ## 🏆 Honors & Awards
 
 - **Top 15** – RMIT Future Business (Business Competition)
-- **Top 20** – Vin-Datathon (Data Competition)
+- **Top 20 / 500 teams** – Vin-Datathon (Data Competition)
