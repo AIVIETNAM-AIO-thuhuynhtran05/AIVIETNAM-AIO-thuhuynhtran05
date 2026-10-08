@@ -65,6 +65,7 @@ Graduation thesis (in progress) predicting loan default on 307K Home Credit appl
 ## 📜 Certifications
 
 - **Sales Analytics Using Excel** – AI VIET NAM, eDA 2026 (Oct 2026) · [Credential](https://learning.aivietnam.edu.vn/certificate/65357243/)
+- **IELTS Academic** – Overall Band 6.5, CEFR B2 (May 2023) · [Certificate](https://drive.google.com/file/d/1orm2huCcWcI1sturx2iSFzrndyQ75r8w/view?usp=sharing)
 
 ---
 
