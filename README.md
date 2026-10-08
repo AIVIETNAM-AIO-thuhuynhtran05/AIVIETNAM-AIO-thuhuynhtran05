@@ -39,6 +39,11 @@ Top 20 out of 500 teams in a data competition. Explored 13 e-commerce tables cov
 
 ---
 
+### [Airbnb Los Angeles Data Warehouse & OLAP Analysis | SQL Server, SSIS, SSAS, Power BI, Python](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/AirBnB-of-Los-Angeles-Data-Warehouse-OLAP-Multidimensional-Analysis-)
+Built an end-to-end data warehouse for 11,996 Airbnb Los Angeles listings: a SQL Server star schema loaded through SSIS, an SSAS cube with four dimensions, and a Power BI report. Trained three models to classify Superhosts; Random Forest reached 90.19% ROC-AUC.
+
+---
+
 ### [Personalized Federated Graph Learning for Credit Risk Prediction | Python, PyTorch Geometric, LightGBM](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Personalized-Federated-Heterogeneous-Graph-Learning-for-Credit-Risk-Prediction-)
 Graduation thesis (in progress) predicting loan default on 307K Home Credit applicants. Trained a heterogeneous GNN across 5 simulated lenders without sharing raw data; FedAvg reached 0.783 ROC-AUC, on par with centralized training.
 
