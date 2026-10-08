@@ -18,7 +18,7 @@ I have delivered end-to-end analytics and research projects across Finance, E-co
 
 🚀 **Available for Data Analyst opportunities.**
 
-> *"Each row has a story, and each null has a reason."*
+> *"Cheer up your day with a burst of laughter and a byte of data-driven insights ✨"*
 
 ---
 
