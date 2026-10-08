@@ -10,11 +10,11 @@
 
 ## 👋 About Me
 
-I am a Computer Science student and product-oriented builder on the path to becoming a Full-Stack Data Professional across analytics, engineering, BI, and applied AI. My work focuses on turning complex business and financial problems into reliable data models, dashboards, forecasts, and practical recommendations.
+I am an Information Systems student and product-oriented builder on the path to becoming a Full-Stack Data Professional across analytics, engineering, BI, and applied AI. My work focuses on turning complex business and financial problems into reliable data models, dashboards, forecasts, and practical recommendations.
 
 My technical foundation is built on SQL, Python, Power BI, and modern analytics engineering. I do not just report history; I design analytical systems that help teams forecast better, optimize decisions, and act with confidence.
 
-I have delivered end-to-end analytics and research projects across Finance, E-commerce, Business Intelligence, and Applied AI. While pursuing the Google Data Analytics Certificate, I focus on practical outcomes: identifying growth opportunities, improving operational efficiency, and translating data into decisions.
+I have delivered end-to-end analytics and research projects across Finance, E-commerce, Business Intelligence, and Applied AI. I focus on practical outcomes: identifying growth opportunities, improving operational efficiency, and translating data into decisions.
 
 🚀 **Available for Data Analyst opportunities.**
 
