@@ -29,13 +29,13 @@ Built a Power BI semantic model and a 3-page dashboard (Overview, Customer, Prod
 
 ---
 
-### [ITB Customer Financial Health Analysis | SQL, Python, Excel](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/ITB-Customer-Financial-Health-Analysis)
-Analyzed one year of card transactions: checked data quality, visualized spending patterns, engineered customer features, and segmented customers into 5 financial-health groups. Proposed non-punitive, segment-specific recommendations to help customers spend within their means.
+### [ITB Customer Financial Health Analysis | SQL, Python, Excel, scikit-learn](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/ITB-Customer-Financial-Health-Analysis)
+Assessed the financial health of 999 bank customers from 1.85M card transactions (VND 3,244.6B). Found that spend-to-income alone explains 81% of the health score, segmented customers with K-Means (ARI 0.97 across 50 bootstrap samples) into 5 groups, and designed 6 non-punitive interventions in a 10-week rollout covering 90.9% of customers.
 
 ---
 
-### [Vin-Datathon | Python, SQL, Machine Learning](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Vin-Datathon)
-Top 20 out of 500 teams in a data competition. Explored 13 e-commerce tables covering customers, products, orders, and web activity, engineered features, and built predictive models including a sales-forecasting baseline.
+### [VinDatathon 2026 – E-commerce Business Analytics | Power BI, DAX, Python, Excel](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Vin-Datathon)
+Top 20 out of 500 teams. Built a 5-page Power BI dashboard on 10 years of a fashion e-commerce platform's data (~VND 15.7B revenue) and showed the decline came from conversion (0.13%) and retention, not traffic. Turned the findings into 5 prioritized action areas with tracking KPIs.
 
 ---
 
@@ -45,7 +45,7 @@ Built an end-to-end data warehouse for 11,996 Airbnb Los Angeles listings: a SQL
 ---
 
 ### [Personalized Federated Graph Learning for Credit Risk Prediction | Python, PyTorch Geometric, LightGBM](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Personalized-Federated-Heterogeneous-Graph-Learning-for-Credit-Risk-Prediction-)
-Graduation thesis (in progress) predicting loan default on 307K Home Credit applicants. Trained a heterogeneous GNN across 5 simulated lenders without sharing raw data; FedAvg reached 0.783 ROC-AUC, on par with centralized training.
+Graduation thesis (in progress since August 2026). Integrated 7 Home Credit tables (307,511 customers, 26.3M records) into a customer credit graph and 601 tabular features. Simulated 5 lenders without sharing raw data: the federated model reached 0.7836 ROC-AUC, on par with centralized training (0.7858) and better than local-only models at 4 of 5 lenders.
 
 ---
 
@@ -76,5 +76,6 @@ Graduation thesis (in progress) predicting loan default on 307K Home Credit appl
 
 ## 🏆 Honors & Awards
 
+- **Finalist** – ITB Competition, UEL (Data Competition)
 - **Top 15** – RMIT Future Business (Business Competition)
 - **Top 20 / 500 teams** – Vin-Datathon (Data Competition)
