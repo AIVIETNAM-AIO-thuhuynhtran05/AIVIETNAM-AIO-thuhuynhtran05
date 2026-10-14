@@ -77,5 +77,5 @@ Graduation thesis (in progress since August 2026). Integrated 7 Home Credit tabl
 ## 🏆 Honors & Awards
 
 - **Finalist** – ITB Competition, UEL (Data Competition)
-- **Top 15** – RMIT Future Business (Business Competition)
+- **Top 15** – RMIT Future Business Analyst (Business Analyst Competition)
 - **Top 20 / 500 teams** – Vin-Datathon (Data Competition)
