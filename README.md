@@ -30,7 +30,7 @@ Built a Power BI semantic model and a 3-page dashboard (Overview, Customer, Prod
 ---
 
 ### [ITB Customer Financial Health Analysis | SQL, Python, Excel, scikit-learn](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/ITB-Customer-Financial-Health-Analysis)
-Assessed the financial health of 999 bank customers from 1.85M card transactions (VND 3,244.6B). Found that spend-to-income alone explains 81% of the health score, segmented customers with K-Means (ARI 0.97 across 50 bootstrap samples) into 5 groups, and designed 6 non-punitive interventions in a 10-week rollout covering 90.9% of customers.
+Finalist case at the ITB Competition (UEL): helped a consumer-finance company understand customers' financial wellbeing, spending, and channel engagement from 1.85M card transactions of 999 customers (synthetic 2025 data). Found that spend-to-income alone explains 81% of the health score, segmented customers with K-Means (ARI 0.97 across 50 bootstrap samples) into 5 groups, and designed 6 non-punitive interventions in a 10-week rollout covering 90.9% of customers.
 
 ---
 
@@ -40,7 +40,7 @@ Top 20 out of 500 teams. Built a 5-page Power BI dashboard on 10 years of a fash
 ---
 
 ### [Airbnb Los Angeles Data Warehouse & OLAP Analysis | SQL Server, SSIS, SSAS, Power BI, Python](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/AirBnB-of-Los-Angeles-Data-Warehouse-OLAP-Multidimensional-Analysis-)
-Built an end-to-end data warehouse for 11,996 Airbnb Los Angeles listings: a SQL Server star schema loaded through SSIS, an SSAS cube with four dimensions, and a Power BI report. Trained three models to classify Superhosts; Random Forest reached 90.19% ROC-AUC.
+Turned raw Airbnb Los Angeles CSV files (11,996 listings) into a SQL Server data warehouse that can be queried directly with SQL for analysis and reporting: a star schema loaded through SSIS, an SSAS cube with four dimensions, and a Power BI report. Trained three models to classify Superhosts; Random Forest reached 90.19% ROC-AUC.
 
 ---
 
