@@ -34,7 +34,7 @@ Finalist case at the ITB Competition (UEL): helped a consumer-finance company un
 
 ---
 
-### [VinDatathon 2026 – E-commerce Business Analytics | Power BI, DAX, Python, Excel](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Vin-Datathon)
+### [VinDatathon 2026 – E-commerce Business Analytics | Power BI, DAX, Python, DuckDB, Excel](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Vin-Datathon)
 Top 20 out of 500 teams. Analyzed 10.5 years of simulated Vietnamese fashion e-commerce data (15 CSV files, ~647K orders, ~122K customers) in a 5-page Power BI dashboard. Segmented 87,839 buyers with RFM, PCA, and K-Means (k = 5). The decline came from conversion (0.13%) and retention, not traffic: 28% of registered customers never completed an order, while Champions and Loyal customers (26% of the base) bring 78.5% of revenue. Recommended segment-specific actions, targeted discounts, and demand-based replenishment, each with a tracking KPI.
 
 ---
@@ -51,7 +51,7 @@ Graduation thesis (in progress since August 2026). Integrated 7 Home Credit tabl
 
 ## 🛠️ Technical Skills
 
-- **SQL:** JOIN & Subqueries, CTE, Aggregation & Window Functions.
+- **SQL:** JOIN & Subqueries, CTE, Aggregation & Window Functions · SQL Server, PostgreSQL, DuckDB.
 - **Power BI:** DAX, Data Modeling, Report & Dashboard Design.
 - **Python:** Pandas, scikit-learn, LightGBM, Data Visualization.
 - **Excel:** Pivot Table, Power Query, Pivot Chart, XLOOKUP / INDEX-MATCH, Data Cleaning.
