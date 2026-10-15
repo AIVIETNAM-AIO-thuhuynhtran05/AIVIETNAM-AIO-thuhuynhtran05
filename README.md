@@ -35,7 +35,7 @@ Finalist case at the ITB Competition (UEL): helped a consumer-finance company un
 ---
 
 ### [VinDatathon 2026 – E-commerce Business Analytics | Power BI, DAX, Python, Excel](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Vin-Datathon)
-Top 20 out of 500 teams. Built a 5-page Power BI dashboard on 10 years of simulated Vietnamese fashion e-commerce data (2012–2022, 15 CSV files, ~647K orders) and showed the decline came from conversion (0.13%) and retention, not traffic. Turned the findings into 5 prioritized action areas with tracking KPIs.
+Top 20 out of 500 teams. Analyzed 10.5 years of simulated Vietnamese fashion e-commerce data (15 CSV files, ~647K orders, ~122K customers) in a 5-page Power BI dashboard. The decline came from conversion (0.13%) and retention, not traffic: 62.6% of sign-ups never bought, and ~826 days of supply tied up capital. Recommended shifting budget to conversion, win-back offers, targeted discounts, and demand-based replenishment, each with a tracking KPI.
 
 ---
 
