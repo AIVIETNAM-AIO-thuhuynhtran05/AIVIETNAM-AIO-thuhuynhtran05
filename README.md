@@ -34,8 +34,8 @@ Finalist case at the ITB Competition (UEL): helped a consumer-finance company un
 
 ---
 
-### [VinDatathon 2026 – E-commerce Business Analytics | Power BI, DAX, Python, DuckDB, Excel](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Vin-Datathon)
-Top 20 out of 500 teams. Analyzed 10.5 years of simulated Vietnamese fashion e-commerce data (15 CSV files, ~647K orders, ~122K customers) in a 5-page Power BI dashboard. Segmented 87,839 buyers with RFM, PCA, and K-Means (k = 5). The decline came from conversion (0.13%) and retention, not traffic: 28% of registered customers never completed an order, while Champions and Loyal customers (26% of the base) bring 78.5% of revenue. Recommended segment-specific actions, targeted discounts, and demand-based replenishment, each with a tracking KPI.
+### [VinDatathon 2026 – E-commerce Business Analytics & Sales Forecasting | Power BI, DAX, Python, DuckDB, LightGBM, Excel](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Vin-Datathon)
+Top 20 out of 500 teams. Analyzed 10.5 years of simulated Vietnamese fashion e-commerce data (15 CSV files, ~647K orders, ~122K customers) in a 5-page Power BI dashboard. Segmented 87,839 buyers with RFM, PCA, and K-Means (k = 5). The decline came from conversion and retention, not traffic: sessions grew 63% while conversion fell from 1.01% to 0.29% (2013–2022), and 28% of registered customers never completed an order, while Champions and Loyal customers (26% of the base) bring 78.5% of revenue. Forecast daily Revenue and COGS for 548 days with a Ridge + LightGBM ensemble on calendar-only features (R² 0.807 on 2022, 37% lower error than a naive baseline, explained with SHAP). Recommended segment-specific actions, targeted discounts, and demand-based replenishment, each with a tracking KPI.
 
 ---
 
@@ -56,7 +56,7 @@ Graduation thesis (in progress since August 2026). Integrated 7 Home Credit tabl
 - **Python:** Pandas, scikit-learn, LightGBM, Data Visualization.
 - **Excel:** Pivot Table, Power Query, Pivot Chart, XLOOKUP / INDEX-MATCH, Data Cleaning.
 - **BI Tools:** Power BI, Looker.
-- **Machine Learning:** Classification, Clustering (K-Means), Model Evaluation.
+- **Machine Learning:** Classification, Clustering (K-Means), Time Series Forecasting, Model Evaluation.
 
 ---
 
