@@ -30,12 +30,17 @@ Built a Power BI semantic model and a 3-page dashboard (Overview, Customer, Prod
 ---
 
 ### [ITB Customer Financial Health Analysis | SQL, Python, Excel, scikit-learn](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/ITB-Customer-Financial-Health-Analysis)
-Finalist case at the ITB Competition (UEL): helped a consumer-finance company understand customers' financial wellbeing, spending, and channel engagement from 1.85M card transactions of 999 customers (synthetic 2025 data). Found that spend-to-income alone explains 81% of the health score, segmented customers with K-Means (ARI 0.97 across 50 bootstrap samples) into 5 groups, and designed 6 non-punitive interventions in a 10-week rollout covering 90.9% of customers.
+Runner-up (2nd of 200 teams) at the ITB Competition (UEL): helped a consumer-finance company understand customers' financial wellbeing, spending, and channel engagement from 1.85M card transactions of 999 customers (synthetic 2025 data). Found that spend-to-income alone explains 81% of the health score, segmented customers with K-Means (ARI 0.97 across 50 bootstrap samples) into 5 groups, and designed 6 non-punitive interventions in a 10-week rollout covering 90.9% of customers.
 
 ---
 
 ### [VinDatathon 2026 – E-commerce Business Analytics & Sales Forecasting | Power BI, DAX, Python, DuckDB, LightGBM, Excel](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Vin-Datathon)
 Top 20 out of 500 teams. Analyzed 10.5 years of simulated Vietnamese fashion e-commerce data (15 CSV files, ~647K orders, ~122K customers) in a 5-page Power BI dashboard. Segmented 87,839 buyers with RFM, PCA, and K-Means (k = 5). The decline came from conversion and retention, not traffic: sessions grew 63% while conversion fell from 1.01% to 0.29% (2013–2022), and 28% of registered customers never completed an order, while Champions and Loyal customers (26% of the base) bring 78.5% of revenue. Forecast daily Revenue and COGS for 548 days with a Ridge + LightGBM ensemble on calendar-only features (R² 0.807 on 2022, 37% lower error than a naive baseline, explained with SHAP). Recommended segment-specific actions, targeted discounts, and demand-based replenishment, each with a tracking KPI.
+
+---
+
+### [Corporate Loan Portfolio Analytics | Power BI, DAX, Power Query, Python](https://express-js-on-vercel-three-delta-85.vercel.app/projects/corporate-loan-portfolio-analytics)
+Built a 4-page Power BI report (170 DAX measures) on loan balance, income, and credit quality for the corporate banking division of a simulated bank: 10,000 business customers, 31,104 loans, 30 month-ends. Showed that loans grew 10.9% year on year while net interest income rose only 2.8%, as the book shifted toward large clients (6.1% of borrowers, 44.1% of loans), and traced the rise in bad debt from 2.12% to 2.63% to real estate, electrical manufacturing, and medium and long-term loans. [Interactive dashboard](https://express-js-on-vercel-three-delta-85.vercel.app/demos/aiv-bank-loan-dashboard.html) · [GitHub](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Corporate-Loan-Portfolio-Analytics)
 
 ---
 
@@ -76,6 +81,6 @@ Graduation thesis (in progress since August 2026). Integrated 7 Home Credit tabl
 
 ## 🏆 Honors & Awards
 
-- **Finalist** – ITB Competition, UEL (Data Competition)
+- **Runner-up (2nd of 200 teams)** – ITB Competition, UEL (Data Competition)
 - **Top 15** – RMIT Future Business Analyst (Business Analyst Competition) 
 - **Top 20 / 500 teams** – Vin-Datathon (Data Competition)
