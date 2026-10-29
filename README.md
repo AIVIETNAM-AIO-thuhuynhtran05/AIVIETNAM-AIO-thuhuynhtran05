@@ -50,7 +50,7 @@ Turned raw Airbnb Los Angeles CSV files (11,996 listings) into a SQL Server data
 ---
 
 ### [Personalized Federated Graph Learning for Credit Risk Prediction | Python, PyTorch Geometric, LightGBM](https://github.com/AIVIETNAM-AIO-thuhuynhtran05/Personalized-Federated-Heterogeneous-Graph-Learning-for-Credit-Risk-Prediction-)
-Graduation thesis (in progress since August 2026). Integrated 7 Home Credit tables (307,511 customers, 26.3M records) into a customer credit graph and 601 tabular features. Simulated 5 lenders without sharing raw data: the federated model reached 0.7836 ROC-AUC, on par with centralized training (0.7858) and better than local-only models at 4 of 5 lenders.
+Graduation thesis (in progress since August 2026). Integrated 7 Home Credit tables (307,511 customers, 26.3M records) into a customer credit graph and 601 tabular features. Simulated 5 lenders without sharing raw data: the federated model reached 0.7836 ROC-AUC, on par with centralized training (0.7858) and better than local-only models at 4 of 5 lenders. A hybrid personalized model that blends the federated graph model with each lender's own LightGBM raised the lender-average ROC-AUC from 0.7835 to 0.7908 across 3 seeds, within 0.002 of the best centralized model.
 
 ---
 
