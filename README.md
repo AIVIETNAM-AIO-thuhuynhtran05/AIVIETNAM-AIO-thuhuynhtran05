@@ -4,7 +4,7 @@
 
 📧 huynhtrananhthu.tk1@gmail.com
 
-🌐 [Portfolio](https://express-js-on-vercel-three-delta-85.vercel.app)
+🌐 [Portfolio](https://express-js-on-vercel-three-delta-85.vercel.app) · ✍️ [Blog](https://aivietnam-aio-thuhuynhtran05.github.io/blog/)
 
 ---
 
@@ -17,6 +17,8 @@ My technical foundation is built on SQL, Python, Power BI, and modern analytics 
 I have delivered end-to-end analytics and research projects across Finance, E-commerce, Business Intelligence, and Applied AI. I focus on practical outcomes: identifying growth opportunities, improving operational efficiency, and translating data into decisions.
 
 🚀 **Available for Data Analyst opportunities.**
+
+✍️ **I write until I truly understand.** My [blog](https://aivietnam-aio-thuhuynhtran05.github.io/blog/) (in Vietnamese) is where I explain what I learn in my own words: SQL, Power BI, statistics, machine learning, banking, and short lessons from real projects.
 
 > *"Cheer up your day with a burst of laughter and a byte of data-driven insights ✨"*
 
